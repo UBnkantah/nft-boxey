@@ -55,3 +55,4 @@ Blockchain Security: Transactions and ownership records are secured on the Ether
 User-Friendly Interface: Intuitive user interfaces for both sellers and buyers.
 Metadata Support: NFTs can include rich metadata, making each one unique.
 Decentralized Ownership: NFTs are owned and controlled by users through their Ethereum wallets.
+
