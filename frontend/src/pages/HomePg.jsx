@@ -9,7 +9,6 @@ const HomePg = () => {
     <div>
       <HeroSection />
      <NftCard />
-     <NftForm />
      <Footer />
     </div>
   )

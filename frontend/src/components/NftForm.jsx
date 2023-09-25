@@ -43,6 +43,10 @@ const NftForm = () => {
         );
         console.log(response);
       }
+      setName("")
+      setPrice("")
+      setDescription("")
+      setImage(null)
     } catch (e) {
       console.log("something went wrong...", e);
     }
